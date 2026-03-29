@@ -25,7 +25,6 @@ Kreuzberg is a document intelligence platform with a high‑performance Rust cor
 
 <div class="grid cards" markdown>
 
-
 - :material-flash:{ .lg .middle } **High Performance**
 
 ---
